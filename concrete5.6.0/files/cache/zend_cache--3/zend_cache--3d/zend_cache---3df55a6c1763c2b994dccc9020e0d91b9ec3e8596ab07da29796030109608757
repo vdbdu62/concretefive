@@ -1,0 +1,9 @@
+s:519:"<h6>Featured Theme</h6>
+	<div class="clearfix">
+	<img src="http://www.concrete5.org/files/8813/3795/8883/theme_clearview_icon.png" width="97" height="97" style="float: left; margin-right: 10px; margin-bottom: 10px" />
+	<h3>Clearview</h3>
+	<p>An open and clean theme with a large background image, overlaying content and slide out navigation.</p>
+	</div>
+	
+	<a href="javascript:void(0)" onclick="ccm_getMarketplaceItemDetails(305)" href="http://www.concrete5.org/marketplace/themes/clearview" class="btn">Learn More</a>
+";

@@ -1,0 +1,15 @@
+s:816:"<div>
+<p><img src="http://newsflow.concrete5.org/files/9513/2614/8959/FromTheBlog_Small.png" alt="FromTheBlog_Small.png" width="170" height="30" /></p>
+<h3>Performance Improvements in 5.6.1</h3>
+<p>The next version of concrete5 is fast, even on cheap hosting. Read all about the thinking behind the performance improvements on our blog. </p><div><a href="http://www.concrete5.org/about/blog/open-source-and-strategy/performance-improvements-in-5-6-1/?utm_source=newsflow&utm_medium=web&utm_content=0&utm_campaign=newsflow" class="btn " target="_blank">Read More</a></div>
+</div>
+
+	<div class="newsflow-paging-next"><a href="javascript:void(0)" onclick="ccm_showNewsflowOffsite(260)"><span></span></a></div>
+
+	<script type="text/javascript">
+	$(function() {
+		ccm_setNewsflowPagingArrowHeight();
+	});
+	</script>
+	
+";
